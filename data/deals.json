@@ -1,0 +1,3955 @@
+[
+  {
+    "deal_id": "dl_7128976f",
+    "name": "Barnett Rogers and Snyder IO \u2014 Series A",
+    "company_id": "co_f17eed57",
+    "deal_type": "Series A",
+    "stage": "Passed",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_0fe2d73d"
+    ],
+    "created_at": "2026-03-23",
+    "updated_at": "2026-05-24",
+    "close_date": null,
+    "sector": "EdTech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/6cec70c72eb9"
+  },
+  {
+    "deal_id": "dl_785c908d",
+    "name": "Lee Horton and Snyder Tech \u2014 Seed",
+    "company_id": "co_20761887",
+    "deal_type": "Seed",
+    "stage": "Passed",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_f45e2310"
+    ],
+    "created_at": "2025-05-20",
+    "updated_at": "2026-04-26",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "competitive",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/e4a87b22aef3"
+  },
+  {
+    "deal_id": "dl_43c51f89",
+    "name": "Clark-Adams Tech \u2014 Series C",
+    "company_id": "co_f1209495",
+    "deal_type": "Series C",
+    "stage": "Closed Lost",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_95bfedc7",
+      "ct_f814e049",
+      "ct_f82c5ae8"
+    ],
+    "created_at": "2024-10-15",
+    "updated_at": "2026-05-15",
+    "close_date": "2026-04-13",
+    "sector": "Logistics Tech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/f08394dbdb0d"
+  },
+  {
+    "deal_id": "dl_a575b3eb",
+    "name": "White LLC AI \u2014 Pre-Seed",
+    "company_id": "co_6c123246",
+    "deal_type": "Pre-Seed",
+    "stage": "Closed Lost",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_001",
+      "usr_003",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_0efd2daa"
+    ],
+    "created_at": "2025-05-20",
+    "updated_at": "2026-05-17",
+    "close_date": "2026-05-05",
+    "sector": "Logistics Tech",
+    "tags": [
+      "warm intro",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/8e5719130cdb"
+  },
+  {
+    "deal_id": "dl_051ba4e6",
+    "name": "Walker-Jones  \u2014 Series C",
+    "company_id": "co_7c39437c",
+    "deal_type": "Series C",
+    "stage": "Term Sheet",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_002",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_ee81de54",
+      "ct_f6ba4087",
+      "ct_57c15bcb"
+    ],
+    "created_at": "2026-03-25",
+    "updated_at": "2026-05-03",
+    "close_date": null,
+    "sector": "Enterprise SaaS",
+    "tags": [
+      "high priority",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/66b442036aad"
+  },
+  {
+    "deal_id": "dl_cbbaa99f",
+    "name": "Baker and Sons IO \u2014 Series B",
+    "company_id": "co_41940fc8",
+    "deal_type": "Series B",
+    "stage": "Passed",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_3ea81e7a",
+      "ct_80dd667f"
+    ],
+    "created_at": "2026-02-08",
+    "updated_at": "2026-05-14",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "high priority",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/32970d078fa3"
+  },
+  {
+    "deal_id": "dl_eefd1c9d",
+    "name": "Rodriguez Figueroa and Sanchez  \u2014 Seed",
+    "company_id": "co_095ce508",
+    "deal_type": "Seed",
+    "stage": "Due Diligence",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_baad0275"
+    ],
+    "created_at": "2025-04-21",
+    "updated_at": "2026-05-10",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "high priority",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/bbfeccc650fe"
+  },
+  {
+    "deal_id": "dl_206763b7",
+    "name": "Morales-Jones  \u2014 Pre-Seed",
+    "company_id": "co_e46ac7d6",
+    "deal_type": "Pre-Seed",
+    "stage": "Due Diligence",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_275b6a51",
+      "ct_503405e8"
+    ],
+    "created_at": "2026-01-19",
+    "updated_at": "2026-05-01",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/5734beb94559"
+  },
+  {
+    "deal_id": "dl_b5675cef",
+    "name": "Larsen LLC AI \u2014 Growth Equity",
+    "company_id": "co_1d815548",
+    "deal_type": "Growth Equity",
+    "stage": "Qualified",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_8d8e7003",
+      "ct_20b0023d"
+    ],
+    "created_at": "2025-03-31",
+    "updated_at": "2026-05-19",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "competitive",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/34eab0c99e23"
+  },
+  {
+    "deal_id": "dl_f1cc38bf",
+    "name": "Ibarra-Suarez Labs \u2014 Series A",
+    "company_id": "co_4d31207c",
+    "deal_type": "Series A",
+    "stage": "Term Sheet",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_004",
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_c62809e5"
+    ],
+    "created_at": "2025-04-20",
+    "updated_at": "2026-05-15",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/91d83171e049"
+  },
+  {
+    "deal_id": "dl_05472e34",
+    "name": "Davis Group AI \u2014 Pre-Seed",
+    "company_id": "co_5d90c8e4",
+    "deal_type": "Pre-Seed",
+    "stage": "Passed",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_fcbee84a",
+      "ct_2e6e5e9e"
+    ],
+    "created_at": "2025-03-31",
+    "updated_at": "2026-05-09",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "founder led",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/f1c87c8ae55b"
+  },
+  {
+    "deal_id": "dl_25b01c20",
+    "name": "Wilson-Rodriguez HQ \u2014 Growth Equity",
+    "company_id": "co_2eb6e434",
+    "deal_type": "Growth Equity",
+    "stage": "Due Diligence",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_003",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_8fdcca97"
+    ],
+    "created_at": "2024-12-08",
+    "updated_at": "2026-04-25",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/cc956cfc9e4f"
+  },
+  {
+    "deal_id": "dl_103e474b",
+    "name": "Benson-Mccarthy Tech \u2014 Growth Equity",
+    "company_id": "co_4a7a0be2",
+    "deal_type": "Growth Equity",
+    "stage": "Qualified",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_002",
+      "usr_004",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_b9b38081",
+      "ct_2b965196",
+      "ct_e5d99078"
+    ],
+    "created_at": "2024-10-08",
+    "updated_at": "2026-05-09",
+    "close_date": null,
+    "sector": "Enterprise SaaS",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/409e0d8b7ae4"
+  },
+  {
+    "deal_id": "dl_7da14aaa",
+    "name": "Ibarra-Suarez Labs \u2014 Series C",
+    "company_id": "co_4d31207c",
+    "deal_type": "Series C",
+    "stage": "Qualified",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_8b7f3bc0",
+      "ct_14c0d7fb",
+      "ct_098971e1"
+    ],
+    "created_at": "2025-11-18",
+    "updated_at": "2026-05-08",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "warm intro",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/cc26c85c4d85"
+  },
+  {
+    "deal_id": "dl_29106609",
+    "name": "Nolan and Sons AI \u2014 Pre-Seed",
+    "company_id": "co_e5bdf469",
+    "deal_type": "Pre-Seed",
+    "stage": "Closed Lost",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003",
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_ca6a1466",
+      "ct_67c56f6e"
+    ],
+    "created_at": "2026-01-27",
+    "updated_at": "2026-04-24",
+    "close_date": "2026-03-01",
+    "sector": "PropTech",
+    "tags": [
+      "high priority",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/72a5fbf86ef5"
+  },
+  {
+    "deal_id": "dl_d118e516",
+    "name": "Richards Hurst and Ross IO \u2014 Series B",
+    "company_id": "co_94a65727",
+    "deal_type": "Series B",
+    "stage": "Due Diligence",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_e87f4850",
+      "ct_cf02dca2",
+      "ct_ef1af3ef"
+    ],
+    "created_at": "2024-11-18",
+    "updated_at": "2026-05-24",
+    "close_date": null,
+    "sector": "Enterprise SaaS",
+    "tags": [
+      "high priority",
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/29630d4ef9c3"
+  },
+  {
+    "deal_id": "dl_c82d8601",
+    "name": "Rivera Johnson and Wiley HQ \u2014 Series A",
+    "company_id": "co_e4454e3b",
+    "deal_type": "Series A",
+    "stage": "Lead",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_004",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_f922d868",
+      "ct_87e09b03",
+      "ct_2c7d7b48"
+    ],
+    "created_at": "2025-11-30",
+    "updated_at": "2026-05-21",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "board seat",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/ca63d90d3fd5"
+  },
+  {
+    "deal_id": "dl_cc83c09a",
+    "name": "Wilson-Rodriguez HQ \u2014 Series C",
+    "company_id": "co_2eb6e434",
+    "deal_type": "Series C",
+    "stage": "Lead",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_8fdcca97"
+    ],
+    "created_at": "2026-03-10",
+    "updated_at": "2026-05-08",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/5f0911374cbf"
+  },
+  {
+    "deal_id": "dl_b4994ed9",
+    "name": "Alvarez Pierce and Baker AI \u2014 Pre-Seed",
+    "company_id": "co_dfac1ca1",
+    "deal_type": "Pre-Seed",
+    "stage": "Due Diligence",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_ab4f08bf",
+      "ct_4f8bac7f"
+    ],
+    "created_at": "2025-02-12",
+    "updated_at": "2026-05-24",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/f05ef303443c"
+  },
+  {
+    "deal_id": "dl_ecb70e57",
+    "name": "Gray-Lewis AI \u2014 Seed",
+    "company_id": "co_eeecd46f",
+    "deal_type": "Seed",
+    "stage": "Term Sheet",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_001",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_aeab4eb2",
+      "ct_29390588",
+      "ct_4cacba22"
+    ],
+    "created_at": "2026-04-20",
+    "updated_at": "2026-05-18",
+    "close_date": null,
+    "sector": "Cybersecurity",
+    "tags": [
+      "high priority",
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/243b348ec32c"
+  },
+  {
+    "deal_id": "dl_3dc03050",
+    "name": "Nelson Morton and Medina AI \u2014 Seed",
+    "company_id": "co_af166ea1",
+    "deal_type": "Seed",
+    "stage": "Passed",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_005",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_32e209b3",
+      "ct_f5b570d7",
+      "ct_c3eb2dcf"
+    ],
+    "created_at": "2024-10-31",
+    "updated_at": "2026-04-27",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "warm intro",
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/c14fe4793c12"
+  },
+  {
+    "deal_id": "dl_892090cc",
+    "name": "Barnett Rogers and Snyder IO \u2014 Series C",
+    "company_id": "co_f17eed57",
+    "deal_type": "Series C",
+    "stage": "Closed Lost",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_b51bacff",
+      "ct_ad014b98"
+    ],
+    "created_at": "2026-01-28",
+    "updated_at": "2026-05-13",
+    "close_date": "2025-11-28",
+    "sector": "EdTech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/cce4a128dd13"
+  },
+  {
+    "deal_id": "dl_1c3287f4",
+    "name": "White LLC AI \u2014 Pre-Seed",
+    "company_id": "co_6c123246",
+    "deal_type": "Pre-Seed",
+    "stage": "Term Sheet",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_e5f0bc4b",
+      "ct_edb6e8f4",
+      "ct_1ae4535a"
+    ],
+    "created_at": "2025-12-04",
+    "updated_at": "2026-05-09",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "founder led",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/6f479dc48da3"
+  },
+  {
+    "deal_id": "dl_9d1d3b22",
+    "name": "Wilson-Rodriguez HQ \u2014 Seed",
+    "company_id": "co_2eb6e434",
+    "deal_type": "Seed",
+    "stage": "Passed",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_8fdcca97"
+    ],
+    "created_at": "2026-03-01",
+    "updated_at": "2026-05-11",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "exclusive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/964fad0b33d1"
+  },
+  {
+    "deal_id": "dl_c2737d6f",
+    "name": "Lee Horton and Snyder Tech \u2014 Series A",
+    "company_id": "co_20761887",
+    "deal_type": "Series A",
+    "stage": "Qualified",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_f45e2310"
+    ],
+    "created_at": "2026-03-24",
+    "updated_at": "2026-05-15",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/55adbe563818"
+  },
+  {
+    "deal_id": "dl_e4cbeeba",
+    "name": "Ramsey-Pittman Tech \u2014 Seed",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Seed",
+    "stage": "Closed Lost",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_f1ac19f1",
+      "ct_aaf95ea5",
+      "ct_c92b212f"
+    ],
+    "created_at": "2024-10-09",
+    "updated_at": "2026-05-07",
+    "close_date": "2026-03-30",
+    "sector": "Logistics Tech",
+    "tags": [
+      "high priority",
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/85d99eead048"
+  },
+  {
+    "deal_id": "dl_d86f92cd",
+    "name": "Ibarra-Suarez Labs \u2014 Series A",
+    "company_id": "co_4d31207c",
+    "deal_type": "Series A",
+    "stage": "Passed",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_c62809e5"
+    ],
+    "created_at": "2025-01-19",
+    "updated_at": "2026-05-18",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "board seat",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/d69342c5998e"
+  },
+  {
+    "deal_id": "dl_19b29762",
+    "name": "David-Gonzalez AI \u2014 Series B",
+    "company_id": "co_d84ee2b1",
+    "deal_type": "Series B",
+    "stage": "Term Sheet",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_65933707",
+      "ct_5f44fdae"
+    ],
+    "created_at": "2025-12-03",
+    "updated_at": "2026-05-07",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/87d590239ceb"
+  },
+  {
+    "deal_id": "dl_212dadf0",
+    "name": "Beck-Wood Tech \u2014 Series C",
+    "company_id": "co_74f9b50b",
+    "deal_type": "Series C",
+    "stage": "Due Diligence",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_001",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_53efe75d",
+      "ct_85d2354c",
+      "ct_9035701f"
+    ],
+    "created_at": "2025-07-25",
+    "updated_at": "2026-05-20",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "founder led",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/8b25325649c4"
+  },
+  {
+    "deal_id": "dl_bec40d16",
+    "name": "Lee Horton and Snyder Tech \u2014 Pre-Seed",
+    "company_id": "co_20761887",
+    "deal_type": "Pre-Seed",
+    "stage": "Qualified",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_f45e2310",
+      "ct_5a5160a4"
+    ],
+    "created_at": "2025-07-23",
+    "updated_at": "2026-05-02",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "exclusive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/1406bb62f154"
+  },
+  {
+    "deal_id": "dl_62dac051",
+    "name": "Wilson-Rodriguez HQ \u2014 Series A",
+    "company_id": "co_2eb6e434",
+    "deal_type": "Series A",
+    "stage": "Closed Won",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_8fdcca97"
+    ],
+    "created_at": "2026-01-19",
+    "updated_at": "2026-04-24",
+    "close_date": "2026-02-04",
+    "sector": "Fintech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/7411ab065890"
+  },
+  {
+    "deal_id": "dl_ebccff21",
+    "name": "Jones Hensley and Powell IO \u2014 Series C",
+    "company_id": "co_41a7e1d2",
+    "deal_type": "Series C",
+    "stage": "Due Diligence",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_003",
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_de0dd6a7"
+    ],
+    "created_at": "2025-05-14",
+    "updated_at": "2026-05-04",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "high priority",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/4c897f4f6e8a"
+  },
+  {
+    "deal_id": "dl_ca95819e",
+    "name": "Alvarez Pierce and Baker AI \u2014 Seed",
+    "company_id": "co_dfac1ca1",
+    "deal_type": "Seed",
+    "stage": "Term Sheet",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_002",
+      "usr_003",
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_4f8bac7f",
+      "ct_ab4f08bf"
+    ],
+    "created_at": "2026-04-24",
+    "updated_at": "2026-05-16",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/acd6b52c66ef"
+  },
+  {
+    "deal_id": "dl_93756e7c",
+    "name": "Nelson Morton and Medina AI \u2014 Series B",
+    "company_id": "co_af166ea1",
+    "deal_type": "Series B",
+    "stage": "Closed Lost",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_002",
+      "usr_004",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_32e209b3"
+    ],
+    "created_at": "2026-03-02",
+    "updated_at": "2026-05-24",
+    "close_date": "2026-03-31",
+    "sector": "Fintech",
+    "tags": [
+      "high priority",
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/f6ed75c025a1"
+  },
+  {
+    "deal_id": "dl_d485d540",
+    "name": "Gray-Lewis AI \u2014 Pre-Seed",
+    "company_id": "co_eeecd46f",
+    "deal_type": "Pre-Seed",
+    "stage": "Qualified",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_003",
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_aeab4eb2",
+      "ct_29390588",
+      "ct_80b1c98b"
+    ],
+    "created_at": "2025-01-24",
+    "updated_at": "2026-05-17",
+    "close_date": null,
+    "sector": "Cybersecurity",
+    "tags": [
+      "high priority",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/ae029aa055e1"
+  },
+  {
+    "deal_id": "dl_4a092265",
+    "name": "Richards Hurst and Ross IO \u2014 Series C",
+    "company_id": "co_94a65727",
+    "deal_type": "Series C",
+    "stage": "Due Diligence",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_e87f4850"
+    ],
+    "created_at": "2025-06-22",
+    "updated_at": "2026-05-06",
+    "close_date": null,
+    "sector": "Enterprise SaaS",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/c2f4a492c0d4"
+  },
+  {
+    "deal_id": "dl_0102b50d",
+    "name": "Hunter LLC AI \u2014 Seed",
+    "company_id": "co_584acedc",
+    "deal_type": "Seed",
+    "stage": "Qualified",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_937e79ae"
+    ],
+    "created_at": "2025-04-30",
+    "updated_at": "2026-04-26",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/48882cc95cf3"
+  },
+  {
+    "deal_id": "dl_844cb32a",
+    "name": "Everett-Woods IO \u2014 Pre-Seed",
+    "company_id": "co_bbb510a2",
+    "deal_type": "Pre-Seed",
+    "stage": "Lead",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_f464025a",
+      "ct_eff769b8"
+    ],
+    "created_at": "2025-03-27",
+    "updated_at": "2026-05-07",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "board seat",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/0aee429b130b"
+  },
+  {
+    "deal_id": "dl_abbcce9d",
+    "name": "Nelson Morton and Medina AI \u2014 Series B",
+    "company_id": "co_af166ea1",
+    "deal_type": "Series B",
+    "stage": "Due Diligence",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_a214e90c",
+      "ct_32e209b3"
+    ],
+    "created_at": "2024-11-10",
+    "updated_at": "2026-05-17",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "board seat",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/17bc2e01f4b5"
+  },
+  {
+    "deal_id": "dl_46a21a65",
+    "name": "Clark-Adams Tech \u2014 Series A",
+    "company_id": "co_f1209495",
+    "deal_type": "Series A",
+    "stage": "Closed Won",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_58a0e5a4",
+      "ct_95bfedc7"
+    ],
+    "created_at": "2025-04-20",
+    "updated_at": "2026-04-30",
+    "close_date": "2026-01-24",
+    "sector": "Logistics Tech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/7e1c156510a4"
+  },
+  {
+    "deal_id": "dl_7990c72b",
+    "name": "Gray-Lewis AI \u2014 Series A",
+    "company_id": "co_eeecd46f",
+    "deal_type": "Series A",
+    "stage": "Lead",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_4cacba22",
+      "ct_29390588",
+      "ct_aeab4eb2"
+    ],
+    "created_at": "2025-07-30",
+    "updated_at": "2026-05-11",
+    "close_date": null,
+    "sector": "Cybersecurity",
+    "tags": [
+      "high priority",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/10488ef52666"
+  },
+  {
+    "deal_id": "dl_4805a4d2",
+    "name": "Benson-Mccarthy Tech \u2014 Series B",
+    "company_id": "co_4a7a0be2",
+    "deal_type": "Series B",
+    "stage": "Closed Won",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_858c8a45"
+    ],
+    "created_at": "2025-07-14",
+    "updated_at": "2026-05-07",
+    "close_date": "2026-03-02",
+    "sector": "Enterprise SaaS",
+    "tags": [
+      "warm intro",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/eccf1cb9e301"
+  },
+  {
+    "deal_id": "dl_9f1b1d44",
+    "name": "Ibarra-Suarez Labs \u2014 Seed",
+    "company_id": "co_4d31207c",
+    "deal_type": "Seed",
+    "stage": "Closed Lost",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_8b7f3bc0"
+    ],
+    "created_at": "2025-08-23",
+    "updated_at": "2026-05-05",
+    "close_date": "2025-12-20",
+    "sector": "PropTech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/c53b8828d1b9"
+  },
+  {
+    "deal_id": "dl_1ede40cd",
+    "name": "Nelson Morton and Medina AI \u2014 Growth Equity",
+    "company_id": "co_af166ea1",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Lost",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_002",
+      "usr_001",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_c3eb2dcf",
+      "ct_a214e90c"
+    ],
+    "created_at": "2025-10-27",
+    "updated_at": "2026-05-08",
+    "close_date": "2026-03-19",
+    "sector": "Fintech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/2433e4645ade"
+  },
+  {
+    "deal_id": "dl_f04f85ce",
+    "name": "Mckay Ltd  \u2014 Series C",
+    "company_id": "co_472029b5",
+    "deal_type": "Series C",
+    "stage": "Closed Lost",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_003",
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_7cbd10a1",
+      "ct_a0aa90b6"
+    ],
+    "created_at": "2025-12-25",
+    "updated_at": "2026-05-09",
+    "close_date": "2026-01-28",
+    "sector": "Climate Tech",
+    "tags": [
+      "high priority",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/72ebc5c99025"
+  },
+  {
+    "deal_id": "dl_85766c82",
+    "name": "Ramsey-Pittman Tech \u2014 Series C",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Series C",
+    "stage": "Qualified",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_001",
+      "usr_002",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_aaf95ea5",
+      "ct_c92b212f",
+      "ct_f1ac19f1"
+    ],
+    "created_at": "2025-11-14",
+    "updated_at": "2026-05-17",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/8ecb8ba49263"
+  },
+  {
+    "deal_id": "dl_349d5997",
+    "name": "Nolan and Sons AI \u2014 Series B",
+    "company_id": "co_e5bdf469",
+    "deal_type": "Series B",
+    "stage": "Term Sheet",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_004",
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_67c56f6e"
+    ],
+    "created_at": "2025-10-23",
+    "updated_at": "2026-04-25",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "competitive",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/ceaa19f7dfb8"
+  },
+  {
+    "deal_id": "dl_8f5ff6a1",
+    "name": "Ramsey-Pittman Tech \u2014 Series A",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Series A",
+    "stage": "Due Diligence",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_f1ac19f1"
+    ],
+    "created_at": "2024-11-26",
+    "updated_at": "2026-05-22",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "competitive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/4c709177aeae"
+  },
+  {
+    "deal_id": "dl_7ac0e2d7",
+    "name": "Wilson-Rodriguez HQ \u2014 Pre-Seed",
+    "company_id": "co_2eb6e434",
+    "deal_type": "Pre-Seed",
+    "stage": "Lead",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_8fdcca97"
+    ],
+    "created_at": "2025-01-12",
+    "updated_at": "2026-05-01",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/2257ee1f84a5"
+  },
+  {
+    "deal_id": "dl_a4850df9",
+    "name": "Nolan and Sons AI \u2014 Seed",
+    "company_id": "co_e5bdf469",
+    "deal_type": "Seed",
+    "stage": "Closed Won",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_ca6a1466"
+    ],
+    "created_at": "2025-10-06",
+    "updated_at": "2026-05-07",
+    "close_date": "2026-02-25",
+    "sector": "PropTech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/8653ed01391c"
+  },
+  {
+    "deal_id": "dl_90d66e44",
+    "name": "Rodriguez Figueroa and Sanchez  \u2014 Growth Equity",
+    "company_id": "co_095ce508",
+    "deal_type": "Growth Equity",
+    "stage": "Passed",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_baad0275"
+    ],
+    "created_at": "2025-04-04",
+    "updated_at": "2026-05-09",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/a099df31b155"
+  },
+  {
+    "deal_id": "dl_70450fb8",
+    "name": "Beck-Wood Tech \u2014 Series A",
+    "company_id": "co_74f9b50b",
+    "deal_type": "Series A",
+    "stage": "Due Diligence",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_003",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_9035701f",
+      "ct_85d2354c",
+      "ct_6a991a67"
+    ],
+    "created_at": "2026-03-11",
+    "updated_at": "2026-05-20",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "high priority",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/5d179e611750"
+  },
+  {
+    "deal_id": "dl_5451ab21",
+    "name": "Ramsey-Pittman Tech \u2014 Seed",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Seed",
+    "stage": "Lead",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_003",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_c92b212f",
+      "ct_f1ac19f1",
+      "ct_aaf95ea5"
+    ],
+    "created_at": "2025-12-12",
+    "updated_at": "2026-05-10",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "founder led",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/f12e0708753f"
+  },
+  {
+    "deal_id": "dl_381e195c",
+    "name": "Ryan Ltd HQ \u2014 Pre-Seed",
+    "company_id": "co_cc3cc21c",
+    "deal_type": "Pre-Seed",
+    "stage": "Qualified",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_11c8bd00",
+      "ct_e5a18b31"
+    ],
+    "created_at": "2026-01-03",
+    "updated_at": "2026-05-21",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "founder led",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/2df60ab5bb60"
+  },
+  {
+    "deal_id": "dl_c5298f29",
+    "name": "Ibarra-Suarez Labs \u2014 Series C",
+    "company_id": "co_4d31207c",
+    "deal_type": "Series C",
+    "stage": "Term Sheet",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003",
+      "usr_001",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_c62809e5",
+      "ct_aa4b1937"
+    ],
+    "created_at": "2025-12-23",
+    "updated_at": "2026-05-02",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/cba6c018027b"
+  },
+  {
+    "deal_id": "dl_648998e8",
+    "name": "Bailey-Hoover  \u2014 Series A",
+    "company_id": "co_378ffd65",
+    "deal_type": "Series A",
+    "stage": "Closed Won",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_0abdb3de",
+      "ct_402f1c69"
+    ],
+    "created_at": "2025-06-22",
+    "updated_at": "2026-05-10",
+    "close_date": "2026-04-28",
+    "sector": "Deep Tech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/859afc2866bd"
+  },
+  {
+    "deal_id": "dl_ba4dcc74",
+    "name": "Rodriguez Figueroa and Sanchez  \u2014 Series B",
+    "company_id": "co_095ce508",
+    "deal_type": "Series B",
+    "stage": "Lead",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_efb3c147"
+    ],
+    "created_at": "2025-12-12",
+    "updated_at": "2026-05-22",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/f69143430533"
+  },
+  {
+    "deal_id": "dl_b2fd2d64",
+    "name": "Charles Cortez and Evans Tech \u2014 Series B",
+    "company_id": "co_6286b66a",
+    "deal_type": "Series B",
+    "stage": "Passed",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_37b2174e"
+    ],
+    "created_at": "2026-01-20",
+    "updated_at": "2026-04-25",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "board seat",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/422223ed976a"
+  },
+  {
+    "deal_id": "dl_3b78e665",
+    "name": "Lee Horton and Snyder Tech \u2014 Seed",
+    "company_id": "co_20761887",
+    "deal_type": "Seed",
+    "stage": "Lead",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_5a5160a4",
+      "ct_f45e2310"
+    ],
+    "created_at": "2025-02-12",
+    "updated_at": "2026-04-26",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/58e45e7cc6d3"
+  },
+  {
+    "deal_id": "dl_e77c16ea",
+    "name": "Gould Marshall and Scott  \u2014 Pre-Seed",
+    "company_id": "co_d310718e",
+    "deal_type": "Pre-Seed",
+    "stage": "Closed Won",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_005",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_fdc930cf"
+    ],
+    "created_at": "2025-08-16",
+    "updated_at": "2026-05-16",
+    "close_date": "2026-02-15",
+    "sector": "Logistics Tech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/dcabfdf2742c"
+  },
+  {
+    "deal_id": "dl_4bbb004c",
+    "name": "Ryan Ltd HQ \u2014 Pre-Seed",
+    "company_id": "co_cc3cc21c",
+    "deal_type": "Pre-Seed",
+    "stage": "Closed Lost",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_003",
+      "usr_004",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_11c8bd00",
+      "ct_e5a18b31"
+    ],
+    "created_at": "2025-08-12",
+    "updated_at": "2026-05-12",
+    "close_date": "2026-03-16",
+    "sector": "Climate Tech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/0df44308365b"
+  },
+  {
+    "deal_id": "dl_c026eefb",
+    "name": "Wilson-Rodriguez HQ \u2014 Series B",
+    "company_id": "co_2eb6e434",
+    "deal_type": "Series B",
+    "stage": "Closed Won",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_005",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_8fdcca97"
+    ],
+    "created_at": "2026-03-25",
+    "updated_at": "2026-05-19",
+    "close_date": "2026-04-29",
+    "sector": "Fintech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/e7c6c92efc6f"
+  },
+  {
+    "deal_id": "dl_7214e3dc",
+    "name": "Hancock Inc Labs \u2014 Pre-Seed",
+    "company_id": "co_0a89c308",
+    "deal_type": "Pre-Seed",
+    "stage": "Due Diligence",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_003",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_e0b5725c"
+    ],
+    "created_at": "2026-02-26",
+    "updated_at": "2026-05-06",
+    "close_date": null,
+    "sector": "EdTech",
+    "tags": [
+      "board seat",
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/d869085e36a1"
+  },
+  {
+    "deal_id": "dl_8489ab72",
+    "name": "Gray-Lewis AI \u2014 Growth Equity",
+    "company_id": "co_eeecd46f",
+    "deal_type": "Growth Equity",
+    "stage": "Lead",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_4cacba22",
+      "ct_80b1c98b",
+      "ct_aeab4eb2"
+    ],
+    "created_at": "2025-04-29",
+    "updated_at": "2026-05-23",
+    "close_date": null,
+    "sector": "Cybersecurity",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/ec7c42c1e154"
+  },
+  {
+    "deal_id": "dl_de31e3e3",
+    "name": "Baxter Inc HQ \u2014 Series B",
+    "company_id": "co_d3cee8ba",
+    "deal_type": "Series B",
+    "stage": "Closed Won",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_005",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_1ccfba5e"
+    ],
+    "created_at": "2026-04-04",
+    "updated_at": "2026-05-02",
+    "close_date": "2026-04-09",
+    "sector": "Climate Tech",
+    "tags": [
+      "high priority",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/a02edb528b2e"
+  },
+  {
+    "deal_id": "dl_58489d4f",
+    "name": "Sellers George and Burns AI \u2014 Growth Equity",
+    "company_id": "co_e235af0c",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Won",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_001",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_547204db",
+      "ct_34e82f00"
+    ],
+    "created_at": "2025-11-30",
+    "updated_at": "2026-05-14",
+    "close_date": "2026-03-08",
+    "sector": "EdTech",
+    "tags": [
+      "founder led",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/624e5aeac985"
+  },
+  {
+    "deal_id": "dl_ef5ff621",
+    "name": "Tapia Vaughn and Lee Tech \u2014 Growth Equity",
+    "company_id": "co_280227cb",
+    "deal_type": "Growth Equity",
+    "stage": "Term Sheet",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005",
+      "usr_003",
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_ae16b181",
+      "ct_8acd4699",
+      "ct_6473fcdd"
+    ],
+    "created_at": "2024-12-12",
+    "updated_at": "2026-05-15",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "founder led",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/fe91c344a9c4"
+  },
+  {
+    "deal_id": "dl_cd9c78df",
+    "name": "Tapia Vaughn and Lee Tech \u2014 Growth Equity",
+    "company_id": "co_280227cb",
+    "deal_type": "Growth Equity",
+    "stage": "Lead",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003",
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_9b4dfa61",
+      "ct_6473fcdd",
+      "ct_ae16b181"
+    ],
+    "created_at": "2025-03-20",
+    "updated_at": "2026-05-14",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/3ce37203a8c1"
+  },
+  {
+    "deal_id": "dl_c293534a",
+    "name": "Jones Ltd AI \u2014 Series B",
+    "company_id": "co_900a168c",
+    "deal_type": "Series B",
+    "stage": "Due Diligence",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_a9dbc5cc"
+    ],
+    "created_at": "2026-01-24",
+    "updated_at": "2026-05-02",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/e9d09b03f90b"
+  },
+  {
+    "deal_id": "dl_b84ad462",
+    "name": "Lee and Sons Tech \u2014 Series A",
+    "company_id": "co_06a22f4f",
+    "deal_type": "Series A",
+    "stage": "Passed",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_6fd613de",
+      "ct_333758a8"
+    ],
+    "created_at": "2026-04-23",
+    "updated_at": "2026-05-13",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "high priority",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/71a1738bbe23"
+  },
+  {
+    "deal_id": "dl_654ff3b7",
+    "name": "Ramsey-Pittman Tech \u2014 Growth Equity",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Lost",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_aaf95ea5",
+      "ct_f1ac19f1"
+    ],
+    "created_at": "2025-09-06",
+    "updated_at": "2026-05-16",
+    "close_date": "2026-04-28",
+    "sector": "Logistics Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/f95eeb832c80"
+  },
+  {
+    "deal_id": "dl_d37af6a6",
+    "name": "Alvarez Pierce and Baker AI \u2014 Series B",
+    "company_id": "co_dfac1ca1",
+    "deal_type": "Series B",
+    "stage": "Term Sheet",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_005",
+      "usr_004",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_ab4f08bf"
+    ],
+    "created_at": "2026-02-07",
+    "updated_at": "2026-04-24",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/1f2fab67feed"
+  },
+  {
+    "deal_id": "dl_3589bd78",
+    "name": "Lam-Lee  \u2014 Series A",
+    "company_id": "co_76e6f9f8",
+    "deal_type": "Series A",
+    "stage": "Qualified",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_27bbe6de",
+      "ct_fe418ece",
+      "ct_70bf1cea"
+    ],
+    "created_at": "2026-01-11",
+    "updated_at": "2026-05-15",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "founder led",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/ed400eaa3859"
+  },
+  {
+    "deal_id": "dl_9e34738c",
+    "name": "Ray-Bush Tech \u2014 Pre-Seed",
+    "company_id": "co_91c23423",
+    "deal_type": "Pre-Seed",
+    "stage": "Term Sheet",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_3b8a7908"
+    ],
+    "created_at": "2024-10-09",
+    "updated_at": "2026-05-22",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "board seat",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/e88aba27e7e6"
+  },
+  {
+    "deal_id": "dl_a2951a3c",
+    "name": "Beck Harvey and Davis AI \u2014 Series A",
+    "company_id": "co_1f069c92",
+    "deal_type": "Series A",
+    "stage": "Qualified",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003",
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_765e8d3c"
+    ],
+    "created_at": "2026-03-29",
+    "updated_at": "2026-04-29",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "exclusive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/53b97690026a"
+  },
+  {
+    "deal_id": "dl_0ff0478e",
+    "name": "Nelson Morton and Medina AI \u2014 Series A",
+    "company_id": "co_af166ea1",
+    "deal_type": "Series A",
+    "stage": "Due Diligence",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_004",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_a214e90c"
+    ],
+    "created_at": "2024-10-14",
+    "updated_at": "2026-05-23",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "exclusive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/eea029a4501b"
+  },
+  {
+    "deal_id": "dl_895c742d",
+    "name": "Lee and Sons Tech \u2014 Series C",
+    "company_id": "co_06a22f4f",
+    "deal_type": "Series C",
+    "stage": "Qualified",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_6fd613de",
+      "ct_f02d528d",
+      "ct_cfc41b2c"
+    ],
+    "created_at": "2026-02-20",
+    "updated_at": "2026-05-07",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/c65a093a5955"
+  },
+  {
+    "deal_id": "dl_b22ae993",
+    "name": "Larsen LLC AI \u2014 Pre-Seed",
+    "company_id": "co_1d815548",
+    "deal_type": "Pre-Seed",
+    "stage": "Term Sheet",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_20b0023d",
+      "ct_8d8e7003",
+      "ct_815217d0"
+    ],
+    "created_at": "2024-12-24",
+    "updated_at": "2026-04-24",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "founder led",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/bcdb425d086b"
+  },
+  {
+    "deal_id": "dl_603c6ef5",
+    "name": "Nunez Ltd HQ \u2014 Series B",
+    "company_id": "co_7230172e",
+    "deal_type": "Series B",
+    "stage": "Passed",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_d4c974d9"
+    ],
+    "created_at": "2025-12-16",
+    "updated_at": "2026-04-28",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "competitive",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/316d9a7b783f"
+  },
+  {
+    "deal_id": "dl_b4b77a5d",
+    "name": "Morales-Jones  \u2014 Pre-Seed",
+    "company_id": "co_e46ac7d6",
+    "deal_type": "Pre-Seed",
+    "stage": "Term Sheet",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_004",
+      "usr_001",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_eec5f955",
+      "ct_275b6a51",
+      "ct_503405e8"
+    ],
+    "created_at": "2025-03-14",
+    "updated_at": "2026-05-11",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/1583069c5948"
+  },
+  {
+    "deal_id": "dl_94221927",
+    "name": "Ramsey-Pittman Tech \u2014 Pre-Seed",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Pre-Seed",
+    "stage": "Closed Won",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_f1ac19f1",
+      "ct_c92b212f",
+      "ct_aaf95ea5"
+    ],
+    "created_at": "2026-01-12",
+    "updated_at": "2026-05-12",
+    "close_date": "2025-12-08",
+    "sector": "Logistics Tech",
+    "tags": [
+      "warm intro",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/8c2ede05dbf2"
+  },
+  {
+    "deal_id": "dl_d3941a68",
+    "name": "Beck Harvey and Davis AI \u2014 Series B",
+    "company_id": "co_1f069c92",
+    "deal_type": "Series B",
+    "stage": "Lead",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005",
+      "usr_004",
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_765e8d3c",
+      "ct_8a4b01d0"
+    ],
+    "created_at": "2025-07-16",
+    "updated_at": "2026-05-23",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "competitive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/23b7e271f8a9"
+  },
+  {
+    "deal_id": "dl_cb744136",
+    "name": "Gonzalez Santos and Gardner Labs \u2014 Series C",
+    "company_id": "co_2f6ce3d7",
+    "deal_type": "Series C",
+    "stage": "Due Diligence",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_1f494bd4",
+      "ct_bbd4981a"
+    ],
+    "created_at": "2025-06-10",
+    "updated_at": "2026-05-16",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "warm intro",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/e5ee93ea9d38"
+  },
+  {
+    "deal_id": "dl_74cb9cb2",
+    "name": "Ryan Ltd HQ \u2014 Series B",
+    "company_id": "co_cc3cc21c",
+    "deal_type": "Series B",
+    "stage": "Term Sheet",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_11c8bd00"
+    ],
+    "created_at": "2025-03-04",
+    "updated_at": "2026-05-02",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "founder led",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/c2a7ccc2ce30"
+  },
+  {
+    "deal_id": "dl_6483d53b",
+    "name": "Ramsey-Pittman Tech \u2014 Series B",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Series B",
+    "stage": "Lead",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_aaf95ea5",
+      "ct_f1ac19f1"
+    ],
+    "created_at": "2025-10-09",
+    "updated_at": "2026-05-02",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/46ef92af2f1d"
+  },
+  {
+    "deal_id": "dl_9746b25c",
+    "name": "Nolan and Sons AI \u2014 Seed",
+    "company_id": "co_e5bdf469",
+    "deal_type": "Seed",
+    "stage": "Passed",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_001",
+      "usr_002",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_67c56f6e",
+      "ct_ca6a1466"
+    ],
+    "created_at": "2024-11-23",
+    "updated_at": "2026-04-24",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "warm intro",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/1ecd0f6fca27"
+  },
+  {
+    "deal_id": "dl_928e324a",
+    "name": "Jones Ltd AI \u2014 Series B",
+    "company_id": "co_900a168c",
+    "deal_type": "Series B",
+    "stage": "Due Diligence",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_a9dbc5cc"
+    ],
+    "created_at": "2025-08-03",
+    "updated_at": "2026-04-27",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/5bfbad624475"
+  },
+  {
+    "deal_id": "dl_4e4163e2",
+    "name": "Hunter LLC AI \u2014 Growth Equity",
+    "company_id": "co_584acedc",
+    "deal_type": "Growth Equity",
+    "stage": "Qualified",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_005",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_05b7ff0d"
+    ],
+    "created_at": "2025-09-25",
+    "updated_at": "2026-05-05",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/e585fec1bf20"
+  },
+  {
+    "deal_id": "dl_d24900ce",
+    "name": "Lee and Sons Tech \u2014 Series C",
+    "company_id": "co_06a22f4f",
+    "deal_type": "Series C",
+    "stage": "Closed Won",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_6fd613de"
+    ],
+    "created_at": "2025-07-17",
+    "updated_at": "2026-05-15",
+    "close_date": "2025-12-02",
+    "sector": "HealthTech",
+    "tags": [
+      "warm intro",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/1b67896f509a"
+  },
+  {
+    "deal_id": "dl_db9747b2",
+    "name": "Rodriguez Figueroa and Sanchez  \u2014 Growth Equity",
+    "company_id": "co_095ce508",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Won",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_001",
+      "usr_004",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_fd9b67d6",
+      "ct_baad0275"
+    ],
+    "created_at": "2025-04-06",
+    "updated_at": "2026-05-14",
+    "close_date": "2026-03-15",
+    "sector": "HealthTech",
+    "tags": [
+      "board seat",
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/e37d1cb4b6ed"
+  },
+  {
+    "deal_id": "dl_f8494810",
+    "name": "Ryan Ltd HQ \u2014 Pre-Seed",
+    "company_id": "co_cc3cc21c",
+    "deal_type": "Pre-Seed",
+    "stage": "Qualified",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_003",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_e5a18b31",
+      "ct_11c8bd00"
+    ],
+    "created_at": "2025-08-21",
+    "updated_at": "2026-05-15",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "exclusive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/9ba17f863177"
+  },
+  {
+    "deal_id": "dl_9e3fc96d",
+    "name": "White LLC AI \u2014 Series A",
+    "company_id": "co_6c123246",
+    "deal_type": "Series A",
+    "stage": "Closed Lost",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005",
+      "usr_004",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_e5f0bc4b",
+      "ct_c59de018"
+    ],
+    "created_at": "2025-10-12",
+    "updated_at": "2026-04-27",
+    "close_date": "2026-04-11",
+    "sector": "Logistics Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/5850930d6782"
+  },
+  {
+    "deal_id": "dl_b4e52bfe",
+    "name": "Richards Hurst and Ross IO \u2014 Series B",
+    "company_id": "co_94a65727",
+    "deal_type": "Series B",
+    "stage": "Term Sheet",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_001",
+      "usr_002",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_fb581b4b"
+    ],
+    "created_at": "2025-08-03",
+    "updated_at": "2026-05-11",
+    "close_date": null,
+    "sector": "Enterprise SaaS",
+    "tags": [
+      "competitive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/6d384baf76da"
+  },
+  {
+    "deal_id": "dl_eaf45c7d",
+    "name": "Gray-Lewis AI \u2014 Seed",
+    "company_id": "co_eeecd46f",
+    "deal_type": "Seed",
+    "stage": "Due Diligence",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_005",
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_80b1c98b"
+    ],
+    "created_at": "2025-12-25",
+    "updated_at": "2026-04-27",
+    "close_date": null,
+    "sector": "Cybersecurity",
+    "tags": [
+      "warm intro",
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/25307e04cf10"
+  },
+  {
+    "deal_id": "dl_1dfc667c",
+    "name": "Rivera Johnson and Wiley HQ \u2014 Series B",
+    "company_id": "co_e4454e3b",
+    "deal_type": "Series B",
+    "stage": "Lead",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_005",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_2c7d7b48"
+    ],
+    "created_at": "2025-12-05",
+    "updated_at": "2026-04-27",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/590e9bb78b5b"
+  },
+  {
+    "deal_id": "dl_77b61499",
+    "name": "Lee Horton and Snyder Tech \u2014 Growth Equity",
+    "company_id": "co_20761887",
+    "deal_type": "Growth Equity",
+    "stage": "Due Diligence",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_018952cb",
+      "ct_f45e2310"
+    ],
+    "created_at": "2025-10-25",
+    "updated_at": "2026-05-06",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/62ab0490574f"
+  },
+  {
+    "deal_id": "dl_cf3b6859",
+    "name": "Everett-Woods IO \u2014 Series A",
+    "company_id": "co_bbb510a2",
+    "deal_type": "Series A",
+    "stage": "Passed",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_f464025a",
+      "ct_263fdb86"
+    ],
+    "created_at": "2025-12-13",
+    "updated_at": "2026-05-07",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/52cd7642801f"
+  },
+  {
+    "deal_id": "dl_c5671b5d",
+    "name": "Nolan and Sons AI \u2014 Series C",
+    "company_id": "co_e5bdf469",
+    "deal_type": "Series C",
+    "stage": "Lead",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_001",
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_67c56f6e",
+      "ct_ca6a1466"
+    ],
+    "created_at": "2024-10-28",
+    "updated_at": "2026-05-20",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/4af7d4eb3162"
+  },
+  {
+    "deal_id": "dl_a94d156b",
+    "name": "Bryant Group Labs \u2014 Series C",
+    "company_id": "co_40b7964f",
+    "deal_type": "Series C",
+    "stage": "Closed Won",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_003",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_44cbcd57",
+      "ct_4995bb64",
+      "ct_605f1168"
+    ],
+    "created_at": "2025-11-04",
+    "updated_at": "2026-05-14",
+    "close_date": "2026-02-02",
+    "sector": "Climate Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/af211e6ac950"
+  },
+  {
+    "deal_id": "dl_67b6c7ad",
+    "name": "Lee Horton and Snyder Tech \u2014 Series B",
+    "company_id": "co_20761887",
+    "deal_type": "Series B",
+    "stage": "Due Diligence",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_018952cb",
+      "ct_f45e2310",
+      "ct_5a5160a4"
+    ],
+    "created_at": "2025-11-07",
+    "updated_at": "2026-05-06",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/d85bdd29c330"
+  },
+  {
+    "deal_id": "dl_56253bb3",
+    "name": "Nolan and Sons AI \u2014 Growth Equity",
+    "company_id": "co_e5bdf469",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Lost",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_005",
+      "usr_001",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_ca6a1466"
+    ],
+    "created_at": "2026-03-17",
+    "updated_at": "2026-05-04",
+    "close_date": "2026-05-19",
+    "sector": "PropTech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/a80e8e7c24e3"
+  },
+  {
+    "deal_id": "dl_8946a621",
+    "name": "James-Ferrell AI \u2014 Seed",
+    "company_id": "co_559bb0d4",
+    "deal_type": "Seed",
+    "stage": "Term Sheet",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_004",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_a9fff8f6"
+    ],
+    "created_at": "2025-03-31",
+    "updated_at": "2026-05-15",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "board seat",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/8b48ebf8d103"
+  },
+  {
+    "deal_id": "dl_07b2fd6d",
+    "name": "Nelson Morton and Medina AI \u2014 Series C",
+    "company_id": "co_af166ea1",
+    "deal_type": "Series C",
+    "stage": "Closed Won",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_005",
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_32e209b3"
+    ],
+    "created_at": "2025-12-05",
+    "updated_at": "2026-05-09",
+    "close_date": "2026-04-04",
+    "sector": "Fintech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/864b69145789"
+  },
+  {
+    "deal_id": "dl_a5121ae9",
+    "name": "Larsen LLC AI \u2014 Series C",
+    "company_id": "co_1d815548",
+    "deal_type": "Series C",
+    "stage": "Qualified",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_8d8e7003",
+      "ct_6d293f6a"
+    ],
+    "created_at": "2025-03-01",
+    "updated_at": "2026-05-14",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/265a004606e5"
+  },
+  {
+    "deal_id": "dl_c410f746",
+    "name": "Rodriguez Figueroa and Sanchez  \u2014 Series A",
+    "company_id": "co_095ce508",
+    "deal_type": "Series A",
+    "stage": "Closed Lost",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_efb3c147"
+    ],
+    "created_at": "2026-01-01",
+    "updated_at": "2026-04-26",
+    "close_date": "2026-03-20",
+    "sector": "HealthTech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/3c3d8bc564af"
+  },
+  {
+    "deal_id": "dl_7ac26ddd",
+    "name": "Baker and Sons IO \u2014 Seed",
+    "company_id": "co_41940fc8",
+    "deal_type": "Seed",
+    "stage": "Due Diligence",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_80dd667f",
+      "ct_3ea81e7a"
+    ],
+    "created_at": "2026-03-04",
+    "updated_at": "2026-05-01",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/55f4fba760af"
+  },
+  {
+    "deal_id": "dl_c8b07914",
+    "name": "Everett-Woods IO \u2014 Series A",
+    "company_id": "co_bbb510a2",
+    "deal_type": "Series A",
+    "stage": "Lead",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_004",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_f464025a",
+      "ct_bb9ecc9f",
+      "ct_eff769b8"
+    ],
+    "created_at": "2025-12-04",
+    "updated_at": "2026-05-19",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/34972f3e0e76"
+  },
+  {
+    "deal_id": "dl_878e4f39",
+    "name": "Bailey-Hoover  \u2014 Series C",
+    "company_id": "co_378ffd65",
+    "deal_type": "Series C",
+    "stage": "Term Sheet",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_002",
+      "usr_001",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_0abdb3de",
+      "ct_402f1c69"
+    ],
+    "created_at": "2025-03-26",
+    "updated_at": "2026-05-21",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "warm intro",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/90ba761f1b12"
+  },
+  {
+    "deal_id": "dl_b5430675",
+    "name": "Ramsey-Pittman Tech \u2014 Seed",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Seed",
+    "stage": "Closed Lost",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_001",
+      "usr_002",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_aaf95ea5",
+      "ct_f1ac19f1"
+    ],
+    "created_at": "2025-10-21",
+    "updated_at": "2026-05-10",
+    "close_date": "2026-05-13",
+    "sector": "Logistics Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/23f0429cbf51"
+  },
+  {
+    "deal_id": "dl_8df5c452",
+    "name": "Hunter LLC AI \u2014 Series A",
+    "company_id": "co_584acedc",
+    "deal_type": "Series A",
+    "stage": "Due Diligence",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_005",
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_05b7ff0d",
+      "ct_742b1e97",
+      "ct_77e4732d"
+    ],
+    "created_at": "2024-11-03",
+    "updated_at": "2026-05-03",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "founder led",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/675b1be667c2"
+  },
+  {
+    "deal_id": "dl_f8070d5d",
+    "name": "Gould Marshall and Scott  \u2014 Series A",
+    "company_id": "co_d310718e",
+    "deal_type": "Series A",
+    "stage": "Lead",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_2541f1f8",
+      "ct_65a8158a"
+    ],
+    "created_at": "2025-11-15",
+    "updated_at": "2026-05-14",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "high priority",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/8c49c24f9808"
+  },
+  {
+    "deal_id": "dl_8a597562",
+    "name": "Baxter Inc HQ \u2014 Growth Equity",
+    "company_id": "co_d3cee8ba",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Won",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_1ccfba5e",
+      "ct_fd9dc370"
+    ],
+    "created_at": "2025-04-02",
+    "updated_at": "2026-04-27",
+    "close_date": "2026-01-17",
+    "sector": "Climate Tech",
+    "tags": [
+      "competitive",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/0e4bbb422e91"
+  },
+  {
+    "deal_id": "dl_5d807a7a",
+    "name": "Lee Horton and Snyder Tech \u2014 Growth Equity",
+    "company_id": "co_20761887",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Lost",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_f45e2310"
+    ],
+    "created_at": "2026-04-06",
+    "updated_at": "2026-04-24",
+    "close_date": "2025-12-17",
+    "sector": "Climate Tech",
+    "tags": [
+      "warm intro",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/842f547df4bd"
+  },
+  {
+    "deal_id": "dl_e3146fb7",
+    "name": "Nunez Ltd HQ \u2014 Growth Equity",
+    "company_id": "co_7230172e",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Lost",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_49eed3d1",
+      "ct_d4c974d9"
+    ],
+    "created_at": "2025-01-12",
+    "updated_at": "2026-05-02",
+    "close_date": "2025-12-07",
+    "sector": "Fintech",
+    "tags": [
+      "board seat",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/41a939715307"
+  },
+  {
+    "deal_id": "dl_c366b98d",
+    "name": "James-Ferrell AI \u2014 Growth Equity",
+    "company_id": "co_559bb0d4",
+    "deal_type": "Growth Equity",
+    "stage": "Lead",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_003",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_a9fff8f6",
+      "ct_f8d8ad7a",
+      "ct_203e072f"
+    ],
+    "created_at": "2025-09-09",
+    "updated_at": "2026-05-09",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/5cbb313cf443"
+  },
+  {
+    "deal_id": "dl_01179825",
+    "name": "Martinez Williams and Brown IO \u2014 Seed",
+    "company_id": "co_76e6c5ae",
+    "deal_type": "Seed",
+    "stage": "Closed Lost",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_86e761a0"
+    ],
+    "created_at": "2026-01-05",
+    "updated_at": "2026-05-18",
+    "close_date": "2026-01-27",
+    "sector": "Logistics Tech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/fb5b5ba0ea7e"
+  },
+  {
+    "deal_id": "dl_0b3cead8",
+    "name": "Davis Group AI \u2014 Seed",
+    "company_id": "co_5d90c8e4",
+    "deal_type": "Seed",
+    "stage": "Lead",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_005",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_c12788f7",
+      "ct_4f2d795f"
+    ],
+    "created_at": "2026-03-08",
+    "updated_at": "2026-05-07",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "warm intro",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/198cfe3325db"
+  },
+  {
+    "deal_id": "dl_2103b5de",
+    "name": "Bryant Group Labs \u2014 Series B",
+    "company_id": "co_40b7964f",
+    "deal_type": "Series B",
+    "stage": "Passed",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_005",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_365df360",
+      "ct_4995bb64",
+      "ct_44cbcd57"
+    ],
+    "created_at": "2025-10-29",
+    "updated_at": "2026-04-25",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/205cd5975c49"
+  },
+  {
+    "deal_id": "dl_5fa17aa9",
+    "name": "Bailey-Hoover  \u2014 Series C",
+    "company_id": "co_378ffd65",
+    "deal_type": "Series C",
+    "stage": "Due Diligence",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_402f1c69",
+      "ct_0abdb3de"
+    ],
+    "created_at": "2025-01-16",
+    "updated_at": "2026-05-18",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/cd1fc04082b2"
+  },
+  {
+    "deal_id": "dl_97f9080f",
+    "name": "Beck-Wood Tech \u2014 Growth Equity",
+    "company_id": "co_74f9b50b",
+    "deal_type": "Growth Equity",
+    "stage": "Due Diligence",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005",
+      "usr_003",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_6a991a67"
+    ],
+    "created_at": "2025-05-06",
+    "updated_at": "2026-05-07",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "warm intro",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/c7955cf5ce82"
+  },
+  {
+    "deal_id": "dl_3d6cf626",
+    "name": "Nelson Morton and Medina AI \u2014 Seed",
+    "company_id": "co_af166ea1",
+    "deal_type": "Seed",
+    "stage": "Closed Lost",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_32e209b3"
+    ],
+    "created_at": "2024-10-25",
+    "updated_at": "2026-05-12",
+    "close_date": "2026-04-17",
+    "sector": "Fintech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/6ddd9fe26288"
+  },
+  {
+    "deal_id": "dl_c26e61fe",
+    "name": "Ray-Bush Tech \u2014 Series C",
+    "company_id": "co_91c23423",
+    "deal_type": "Series C",
+    "stage": "Qualified",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_80891951",
+      "ct_7dd0044a",
+      "ct_ff93d80c"
+    ],
+    "created_at": "2025-11-11",
+    "updated_at": "2026-05-23",
+    "close_date": null,
+    "sector": "Deep Tech",
+    "tags": [
+      "exclusive",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/91774cbdbca4"
+  },
+  {
+    "deal_id": "dl_ca54d1f0",
+    "name": "Gould Marshall and Scott  \u2014 Growth Equity",
+    "company_id": "co_d310718e",
+    "deal_type": "Growth Equity",
+    "stage": "Passed",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003",
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_0179241e",
+      "ct_abdc3c68"
+    ],
+    "created_at": "2025-09-07",
+    "updated_at": "2026-05-14",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/c0fbafb28792"
+  },
+  {
+    "deal_id": "dl_58a885b6",
+    "name": "Martinez Williams and Brown IO \u2014 Series B",
+    "company_id": "co_76e6c5ae",
+    "deal_type": "Series B",
+    "stage": "Due Diligence",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_005",
+      "usr_002",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_86e761a0"
+    ],
+    "created_at": "2025-01-26",
+    "updated_at": "2026-05-10",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/434e26200cb2"
+  },
+  {
+    "deal_id": "dl_a51c8f7a",
+    "name": "Clark-Adams Tech \u2014 Series B",
+    "company_id": "co_f1209495",
+    "deal_type": "Series B",
+    "stage": "Qualified",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_58a0e5a4",
+      "ct_66424db9"
+    ],
+    "created_at": "2024-11-14",
+    "updated_at": "2026-05-20",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/fb7bc5f94889"
+  },
+  {
+    "deal_id": "dl_22bd65f6",
+    "name": "Lee and Sons Tech \u2014 Series C",
+    "company_id": "co_06a22f4f",
+    "deal_type": "Series C",
+    "stage": "Lead",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_a52cca12",
+      "ct_f02d528d",
+      "ct_a17c11b1"
+    ],
+    "created_at": "2025-01-02",
+    "updated_at": "2026-05-09",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "high priority",
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/8194efa2c413"
+  },
+  {
+    "deal_id": "dl_b5e7e542",
+    "name": "Larsen LLC AI \u2014 Series B",
+    "company_id": "co_1d815548",
+    "deal_type": "Series B",
+    "stage": "Qualified",
+    "amount_usd": 1000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_815217d0",
+      "ct_6d293f6a",
+      "ct_20b0023d"
+    ],
+    "created_at": "2024-11-07",
+    "updated_at": "2026-05-13",
+    "close_date": null,
+    "sector": "HealthTech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/fe85fdf4e6d1"
+  },
+  {
+    "deal_id": "dl_4e63cc9b",
+    "name": "Nelson Morton and Medina AI \u2014 Series C",
+    "company_id": "co_af166ea1",
+    "deal_type": "Series C",
+    "stage": "Due Diligence",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_005",
+      "usr_004",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_32e209b3",
+      "ct_a214e90c",
+      "ct_f5b570d7"
+    ],
+    "created_at": "2025-04-20",
+    "updated_at": "2026-05-10",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/1f423a8fabc4"
+  },
+  {
+    "deal_id": "dl_f4ccbbf6",
+    "name": "Gould Marshall and Scott  \u2014 Series B",
+    "company_id": "co_d310718e",
+    "deal_type": "Series B",
+    "stage": "Closed Won",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_ca977ea7",
+      "ct_abdc3c68"
+    ],
+    "created_at": "2026-03-15",
+    "updated_at": "2026-05-15",
+    "close_date": "2026-05-18",
+    "sector": "Logistics Tech",
+    "tags": [
+      "warm intro",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/942e7da3eb26"
+  },
+  {
+    "deal_id": "dl_bc70b662",
+    "name": "Charles Cortez and Evans Tech \u2014 Series A",
+    "company_id": "co_6286b66a",
+    "deal_type": "Series A",
+    "stage": "Term Sheet",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_001",
+      "usr_005",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_dde8aaba",
+      "ct_37b2174e",
+      "ct_573c0776"
+    ],
+    "created_at": "2025-06-25",
+    "updated_at": "2026-05-18",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/e10a683a3d57"
+  },
+  {
+    "deal_id": "dl_70b66070",
+    "name": "Lam-Lee  \u2014 Series A",
+    "company_id": "co_76e6f9f8",
+    "deal_type": "Series A",
+    "stage": "Passed",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_002",
+      "usr_001",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_fe418ece",
+      "ct_02188601",
+      "ct_70bf1cea"
+    ],
+    "created_at": "2025-09-26",
+    "updated_at": "2026-05-22",
+    "close_date": null,
+    "sector": "Consumer Tech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/03752dd54298"
+  },
+  {
+    "deal_id": "dl_6b14040b",
+    "name": "Lee and Sons Tech \u2014 Series A",
+    "company_id": "co_06a22f4f",
+    "deal_type": "Series A",
+    "stage": "Closed Won",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_004",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_a17c11b1",
+      "ct_a52cca12"
+    ],
+    "created_at": "2025-09-03",
+    "updated_at": "2026-05-12",
+    "close_date": "2025-12-03",
+    "sector": "HealthTech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/f859ed77171f"
+  },
+  {
+    "deal_id": "dl_03beac1f",
+    "name": "Rodriguez Figueroa and Sanchez  \u2014 Growth Equity",
+    "company_id": "co_095ce508",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Lost",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_005",
+      "usr_001"
+    ],
+    "key_contacts": [
+      "ct_fd9b67d6",
+      "ct_baad0275"
+    ],
+    "created_at": "2026-02-19",
+    "updated_at": "2026-05-22",
+    "close_date": "2026-03-13",
+    "sector": "HealthTech",
+    "tags": [
+      "exclusive",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/6aeccbb8342b"
+  },
+  {
+    "deal_id": "dl_a251f210",
+    "name": "Nelson Morton and Medina AI \u2014 Seed",
+    "company_id": "co_af166ea1",
+    "deal_type": "Seed",
+    "stage": "Lead",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_004",
+      "usr_003",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_c3eb2dcf"
+    ],
+    "created_at": "2025-11-15",
+    "updated_at": "2026-05-03",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "high priority",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/d6b5f375dcca"
+  },
+  {
+    "deal_id": "dl_242f1e8f",
+    "name": "Evans-Price Tech \u2014 Series A",
+    "company_id": "co_4d574c56",
+    "deal_type": "Series A",
+    "stage": "Qualified",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_004",
+      "usr_001",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_50cd5ab8"
+    ],
+    "created_at": "2026-03-13",
+    "updated_at": "2026-05-18",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "board seat",
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/b009b2302e20"
+  },
+  {
+    "deal_id": "dl_48d55955",
+    "name": "Sellers George and Burns AI \u2014 Series B",
+    "company_id": "co_e235af0c",
+    "deal_type": "Series B",
+    "stage": "Qualified",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_34e82f00",
+      "ct_547204db"
+    ],
+    "created_at": "2025-09-10",
+    "updated_at": "2026-05-04",
+    "close_date": null,
+    "sector": "EdTech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/ea0d57152489"
+  },
+  {
+    "deal_id": "dl_e30dd3ca",
+    "name": "Nelson Morton and Medina AI \u2014 Series C",
+    "company_id": "co_af166ea1",
+    "deal_type": "Series C",
+    "stage": "Lead",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_003",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_f5b570d7"
+    ],
+    "created_at": "2026-01-14",
+    "updated_at": "2026-05-21",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "warm intro",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/2a269ff0bbe6"
+  },
+  {
+    "deal_id": "dl_5563067a",
+    "name": "Ryan Ltd HQ \u2014 Seed",
+    "company_id": "co_cc3cc21c",
+    "deal_type": "Seed",
+    "stage": "Due Diligence",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_003",
+      "usr_002",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_11c8bd00",
+      "ct_e5a18b31"
+    ],
+    "created_at": "2025-01-18",
+    "updated_at": "2026-04-24",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "founder led",
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/15d57f6e749c"
+  },
+  {
+    "deal_id": "dl_110ee761",
+    "name": "Wilson-Rodriguez HQ \u2014 Series B",
+    "company_id": "co_2eb6e434",
+    "deal_type": "Series B",
+    "stage": "Qualified",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_8fdcca97"
+    ],
+    "created_at": "2025-02-02",
+    "updated_at": "2026-05-10",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "competitive",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/880a19d6f568"
+  },
+  {
+    "deal_id": "dl_8f462035",
+    "name": "Evans-Price Tech \u2014 Series B",
+    "company_id": "co_4d574c56",
+    "deal_type": "Series B",
+    "stage": "Lead",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_002",
+      "usr_003",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_9fb2d106",
+      "ct_535208f8",
+      "ct_f7181ac3"
+    ],
+    "created_at": "2026-01-31",
+    "updated_at": "2026-04-27",
+    "close_date": null,
+    "sector": "Climate Tech",
+    "tags": [
+      "warm intro"
+    ],
+    "memo_url": "https://drive.google.com/file/bd1bd228f12f"
+  },
+  {
+    "deal_id": "dl_8ccf977b",
+    "name": "Gray-Lewis AI \u2014 Pre-Seed",
+    "company_id": "co_eeecd46f",
+    "deal_type": "Pre-Seed",
+    "stage": "Term Sheet",
+    "amount_usd": 500000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_005",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_aeab4eb2",
+      "ct_29390588",
+      "ct_4cacba22"
+    ],
+    "created_at": "2025-09-19",
+    "updated_at": "2026-05-17",
+    "close_date": null,
+    "sector": "Cybersecurity",
+    "tags": [
+      "founder led",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/f5e8c117b8b6"
+  },
+  {
+    "deal_id": "dl_08a18b36",
+    "name": "Bryant Group Labs \u2014 Series A",
+    "company_id": "co_40b7964f",
+    "deal_type": "Series A",
+    "stage": "Closed Won",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_605f1168",
+      "ct_05399bdf",
+      "ct_44cbcd57"
+    ],
+    "created_at": "2025-03-14",
+    "updated_at": "2026-05-20",
+    "close_date": "2026-01-30",
+    "sector": "Climate Tech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/0126f89b8240"
+  },
+  {
+    "deal_id": "dl_67016a1b",
+    "name": "Ramsey-Pittman Tech \u2014 Growth Equity",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Growth Equity",
+    "stage": "Closed Won",
+    "amount_usd": 100000000,
+    "currency": "USD",
+    "lead_partner": "usr_003",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_aaf95ea5",
+      "ct_c92b212f"
+    ],
+    "created_at": "2025-11-26",
+    "updated_at": "2026-05-16",
+    "close_date": "2026-02-19",
+    "sector": "Logistics Tech",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/492631bfd011"
+  },
+  {
+    "deal_id": "dl_a1046381",
+    "name": "Nelson Morton and Medina AI \u2014 Pre-Seed",
+    "company_id": "co_af166ea1",
+    "deal_type": "Pre-Seed",
+    "stage": "Qualified",
+    "amount_usd": 50000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_c3eb2dcf",
+      "ct_32e209b3",
+      "ct_f5b570d7"
+    ],
+    "created_at": "2025-04-20",
+    "updated_at": "2026-04-28",
+    "close_date": null,
+    "sector": "Fintech",
+    "tags": [
+      "warm intro",
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/ab596f0cc79f"
+  },
+  {
+    "deal_id": "dl_f7146fa7",
+    "name": "Ramsey-Pittman Tech \u2014 Seed",
+    "company_id": "co_8c825e9f",
+    "deal_type": "Seed",
+    "stage": "Qualified",
+    "amount_usd": 25000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_001",
+      "usr_003",
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_c92b212f"
+    ],
+    "created_at": "2025-04-02",
+    "updated_at": "2026-05-12",
+    "close_date": null,
+    "sector": "Logistics Tech",
+    "tags": [
+      "competitive",
+      "exclusive"
+    ],
+    "memo_url": "https://drive.google.com/file/4e542394e617"
+  },
+  {
+    "deal_id": "dl_f290f837",
+    "name": "Beck Harvey and Davis AI \u2014 Series A",
+    "company_id": "co_1f069c92",
+    "deal_type": "Series A",
+    "stage": "Closed Won",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_002"
+    ],
+    "key_contacts": [
+      "ct_b65c6f9e"
+    ],
+    "created_at": "2024-11-27",
+    "updated_at": "2026-05-04",
+    "close_date": "2026-03-14",
+    "sector": "Deep Tech",
+    "tags": [
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/0c7ced017a22"
+  },
+  {
+    "deal_id": "dl_b8ea9ae1",
+    "name": "Chapman and Sons  \u2014 Series C",
+    "company_id": "co_05e3e242",
+    "deal_type": "Series C",
+    "stage": "Qualified",
+    "amount_usd": 5000000,
+    "currency": "USD",
+    "lead_partner": "usr_004",
+    "deal_team": [
+      "usr_001",
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_d376538e",
+      "ct_2cfc2385",
+      "ct_22d25dcb"
+    ],
+    "created_at": "2025-12-24",
+    "updated_at": "2026-05-06",
+    "close_date": null,
+    "sector": "EdTech",
+    "tags": [
+      "board seat"
+    ],
+    "memo_url": "https://drive.google.com/file/5593daaa5168"
+  },
+  {
+    "deal_id": "dl_d6f653ab",
+    "name": "Rivera Johnson and Wiley HQ \u2014 Series B",
+    "company_id": "co_e4454e3b",
+    "deal_type": "Series B",
+    "stage": "Lead",
+    "amount_usd": 2000000,
+    "currency": "USD",
+    "lead_partner": "usr_005",
+    "deal_team": [
+      "usr_002",
+      "usr_005",
+      "usr_003"
+    ],
+    "key_contacts": [
+      "ct_ba3ef4b8",
+      "ct_2c7d7b48",
+      "ct_f922d868"
+    ],
+    "created_at": "2026-03-11",
+    "updated_at": "2026-05-23",
+    "close_date": null,
+    "sector": "PropTech",
+    "tags": [
+      "competitive"
+    ],
+    "memo_url": "https://drive.google.com/file/541b9089856f"
+  },
+  {
+    "deal_id": "dl_cdc1c611",
+    "name": "Chapman and Sons  \u2014 Seed",
+    "company_id": "co_05e3e242",
+    "deal_type": "Seed",
+    "stage": "Closed Won",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_001",
+    "deal_team": [
+      "usr_004"
+    ],
+    "key_contacts": [
+      "ct_d376538e",
+      "ct_1967922b",
+      "ct_2cfc2385"
+    ],
+    "created_at": "2026-04-05",
+    "updated_at": "2026-05-19",
+    "close_date": "2026-03-29",
+    "sector": "EdTech",
+    "tags": [
+      "warm intro",
+      "founder led"
+    ],
+    "memo_url": "https://drive.google.com/file/bb65892d2509"
+  },
+  {
+    "deal_id": "dl_4936338f",
+    "name": "Gray-Lewis AI \u2014 Series B",
+    "company_id": "co_eeecd46f",
+    "deal_type": "Series B",
+    "stage": "Passed",
+    "amount_usd": 10000000,
+    "currency": "USD",
+    "lead_partner": "usr_002",
+    "deal_team": [
+      "usr_003",
+      "usr_004",
+      "usr_005"
+    ],
+    "key_contacts": [
+      "ct_80b1c98b",
+      "ct_29390588",
+      "ct_aeab4eb2"
+    ],
+    "created_at": "2024-11-17",
+    "updated_at": "2026-05-12",
+    "close_date": null,
+    "sector": "Cybersecurity",
+    "tags": [
+      "high priority"
+    ],
+    "memo_url": "https://drive.google.com/file/da541d3a1030"
+  }
+]

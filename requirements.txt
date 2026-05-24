@@ -1,0 +1,33 @@
+# RelIntel — Dependency Manifest
+# Install: pip install -r requirements.txt
+#
+# Tested with Python 3.11+
+
+# ── Core RAG stack ────────────────────────────────────────────────────────────
+chromadb>=0.5.0             # vector store with persistent HNSW index
+rank-bm25>=0.2.2            # BM25Okapi retrieval
+scikit-learn>=1.4.0         # TF-IDF + TruncatedSVD (LSA) embedder
+numpy>=1.26.0
+
+# ── LLM ───────────────────────────────────────────────────────────────────────
+anthropic>=0.28.0           # Anthropic Messages API SDK
+
+# ── Data generation ───────────────────────────────────────────────────────────
+Faker>=24.0.0
+
+# ── Phase 5: RAGAS evaluation ─────────────────────────────────────────────────
+ragas>=0.2.0                # RAGAS evaluation framework
+
+# RAGAS requires LangChain wrappers for LLM + embeddings
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-anthropic>=0.1.15     # ChatAnthropic wrapper for RAGAS judge LLM
+langchain-openai>=0.1.0         # OpenAIEmbeddings (ResponseRelevancy metric)
+                                # Optional: swap for langchain-community HuggingFace
+
+# Optional: HuggingFace embeddings (if no OpenAI key)
+# sentence-transformers>=2.7.0
+# langchain-community>=0.2.0
+
+# ── Dev / testing ─────────────────────────────────────────────────────────────
+pytest>=8.0.0
