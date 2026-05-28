@@ -3,6 +3,10 @@
 A production-quality RAG pipeline for relationship intelligence, built as a portfolio
 project demonstrating the skills required for Senior AI Engineer roles.
 
+## Deployed Demo (Hugging Face Spaces)
+
+![RelIntel deployed on Hugging Face Spaces](deployed_image.png)
+
 ---
 
 ## Architecture

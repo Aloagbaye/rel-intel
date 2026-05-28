@@ -1,0 +1,5 @@
+experiment,n_samples,context_recall_local_mean,context_precision_local_mean,answer_token_f1_mean,numeric_match_mean,guard_pass_rate_mean,context_recall_local_std,context_precision_local_std,answer_token_f1_std,numeric_match_std,guard_pass_rate_std
+hybrid,25,0.8067,0.5763,0.0,0.0,1.0,0.3106,0.3805,0.0,0.0,0.0
+dense,25,0.8533,0.5853,0.0,0.0,1.0,0.29,0.3801,0.0,0.0,0.0
+bm25,25,0.8333,0.5643,0.0,0.0,1.0,0.2966,0.379,0.0,0.0,0.0
+hybrid_no_compress,25,0.8067,0.5763,0.0,0.0,1.0,0.3106,0.3805,0.0,0.0,0.0

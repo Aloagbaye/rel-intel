@@ -17,17 +17,20 @@ Faker>=24.0.0
 
 # ── Phase 5: RAGAS evaluation ─────────────────────────────────────────────────
 ragas>=0.2.0                # RAGAS evaluation framework
+matplotlib>=3.8.0           # evaluation comparison plots
+cleanlab-tlm>=1.1.0         # optional TLM scoring (evaluate_tlm.py)
 
 # RAGAS requires LangChain wrappers for LLM + embeddings
 langchain>=0.2.0
 langchain-core>=0.2.0
 langchain-anthropic>=0.1.15     # ChatAnthropic wrapper for RAGAS judge LLM
 langchain-openai>=0.1.0         # OpenAIEmbeddings (ResponseRelevancy metric)
-                                # Optional: swap for langchain-community HuggingFace
+# ragas 0.4.x still imports langchain_community.chat_models.vertexai at startup;
+# that module was removed in langchain-community 0.4.x (moved to langchain-google-vertexai)
+langchain-community>=0.3.20,<0.4
 
 # Optional: HuggingFace embeddings (if no OpenAI key)
-# sentence-transformers>=2.7.0
-# langchain-community>=0.2.0
+sentence-transformers>=2.7.0
 
 # ── Dev / testing ─────────────────────────────────────────────────────────────
 pytest>=8.0.0

@@ -1,0 +1,18 @@
+# RelIntel — Hugging Face Spaces requirements
+# Trimmed from requirements.txt — evaluation dependencies excluded
+# HF Spaces installs these automatically from this file
+
+# Gradio 4.44.x (pinned by README sdk_version) needs huggingface_hub 0.x (HfFolder removed in 1.0)
+huggingface_hub>=0.23.2,<1.0
+
+# Work around Gradio/Starlette/Jinja2 "unhashable type: dict" template crash
+starlette>=0.40.0,<0.46.0
+
+# ── Core RAG stack ────────────────────────────────────────────────────────────
+chromadb>=0.5.0
+rank-bm25>=0.2.2
+scikit-learn>=1.4.0
+numpy>=1.26.0
+
+# ── LLM ───────────────────────────────────────────────────────────────────────
+anthropic>=0.28.0
