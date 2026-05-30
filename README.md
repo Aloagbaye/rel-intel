@@ -1,7 +1,11 @@
 # RelIntel — Relationship Intelligence RAG System
 
-A production-quality RAG pipeline for relationship intelligence, built as a portfolio
-project demonstrating the skills required for Senior AI Engineer roles.
+Organizations often struggle to turn scattered relationship data into timely,
+actionable intelligence for outreach, warm introductions, and relationship-driven
+decision-making. In this project, we build a retrieval-augmented intelligence
+system that connects notes, profiles, and relationship context so users can ask
+natural-language questions and quickly surface relevant people, connections, and
+next-best actions.
 
 ## Deployed Demo (Hugging Face Spaces)
 
